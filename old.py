@@ -1,1 +1,1 @@
-from od import main(self)
+from od import main()
