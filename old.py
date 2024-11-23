@@ -1,4 +1,1 @@
-from od import OLD_CLONER
-
-cloner = OLD_CLONER()
-cloner.OldClone()  # Assuming the method is named `old_clone`
+from old_cloner import roheet, OLD_CLONER
