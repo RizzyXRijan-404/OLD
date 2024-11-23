@@ -1,1 +1,1 @@
-from old_cloner import roheet, OLD_CLONER
+from od import OLD_CLONER().main()
